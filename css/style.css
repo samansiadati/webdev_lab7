@@ -1,0 +1,70 @@
+body{
+  background-image: url("../images/stars.jpg");
+  background-size: cover;
+  color: rgb(175, 175, 175);
+  font-family: 'droid_sans_monoregular', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'enigmaticregular', sans-serif;
+  text-align: center;
+  font-size: 5em;
+}
+
+#planets {
+  border-spacing: 5px;
+  background-color: rgba(0,0,0,0.7);
+  width: 100%;
+}
+
+td {
+	border-left: 1px;
+  border-right: 1px;
+  border-top: 1px solid #1100ff;
+  border-bottom: 1px;
+  text-align: center;
+  height: 60px;
+}
+
+th {
+  font-size: 1.5em;
+  font-weight: 700;
+  border: 0px;
+}
+  
+td img {
+  max-width: 100%;
+  height: auto;
+}
+
+.super {
+  position: relative;
+  font-size: 0.7em;
+  top: -7px;
+}
+
+.picture {
+  border: 1px;
+}
+
+.empty {
+  border: 1px;
+}
+
+.heading {
+  font-weight: 700;
+}
+
+.biggest {
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.even {
+  border-top: 1px solid #039ffa;
+  border-bottom: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
