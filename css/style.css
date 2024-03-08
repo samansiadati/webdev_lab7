@@ -57,14 +57,3 @@ td img {
   font-weight: 700;
 }
 
-.biggest {
-  font-size: 1.25em;
-  font-weight: 700;
-}
-
-.even {
-  border-top: 1px solid #039ffa;
-  border-bottom: 1px;
-  border-left: 1px;
-  border-right: 1px;
-}
